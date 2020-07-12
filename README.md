@@ -1,4 +1,4 @@
-#Project School VUE and .NET Core - For Udemy Course
+## Project School VUE and .NET Core - For Udemy Course
 
 ### Prerequisites  ###
 * [Node.js](https://nodejs.org/) 
@@ -6,7 +6,7 @@
 
 
 ### Commands  ###
-## Project setup
+### Project setup ###
 ```
 npm install
 ```
